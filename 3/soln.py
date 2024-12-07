@@ -3,7 +3,7 @@ Day 3: Mull It Over
 https://adventofcode.com/2024/day/3
 """
 import re
-from utils.utils import timer
+from utils import timer
 
 MUL = r"mul\(\d{1,3},\d{1,3}\)"
 DO = r"do\(\)"
